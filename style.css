@@ -1,0 +1,81 @@
+.icon{
+  width: 30px;
+  height: 30px;
+}
+#icon-brand{
+  width: 50px;
+  height: 50px;
+}
+.navbar-brand{
+  font-family: "Sofia", cursive;
+  font-size: 30px;
+}
+.navbar{
+  padding: 0px;
+}
+.carousel-img{
+  width: 100%;
+  height: 700px;
+}
+body{
+  background-color: #343a40;
+}
+.container{
+  align-items: center;
+  text-align:center;
+  background-image: url(https://cdn.hipwallpaper.com/i/5/42/lnCTvV.jpeg);
+  background-size:contain;
+  padding: 100px;
+color: white;
+}
+.box{
+  align-items: center;
+  text-align:center;
+}
+.img{
+  height: 360px;
+  width: 476px;
+}
+.partners{
+  height: 200px;
+  width: 370px;
+}
+
+menu{
+  margin: 0;
+}
+ul{
+  margin: 0;
+
+}
+ol{
+  text-align:right;
+  margin-right: 50px;
+  display: inline-block;
+  color: white;
+}
+.bg-secondary{
+  text-align: right;
+}
+h2{
+  color: white;
+}
+h3{
+  color: white;
+}
+
+.video-link{
+  position: relative;
+  left: 100px;
+  top: 40px;
+  height: 50px;
+  width: 180px;
+}
+.link{
+  position: absolute;
+  top: 20%;
+
+}
+a{
+  text-decoration: none;
+}
